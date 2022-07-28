@@ -1,0 +1,8 @@
+{
+  "name": "wfgm5k2d/bitrix-location-service",
+  "description": "This is a library for getting search and processing Bitrix locations",
+  "require": {
+    "php": ">=7.4",
+    "another-vendor/package": "1.0.*"
+  }
+}
